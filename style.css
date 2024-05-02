@@ -36,8 +36,8 @@ header p {
     flex-wrap: wrap;
     margin: auto;
     /*To set a gap between the cards it is used the column-gap and row-gap*/
-    column-gap: 100px;
-    row-gap: 50px; 
+    column-gap: 150px;
+    row-gap: 70px; 
     font-family: "Playfair Display", serif;
 }
 
