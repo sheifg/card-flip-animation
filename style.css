@@ -15,7 +15,7 @@ body {
 
 header {
     padding: 3rem;
-    margin-bottom: 5rem;
+    margin-bottom: 3.7rem;
     font-family: "Dancing Script", cursive;
 }
 
@@ -37,7 +37,7 @@ header p {
     margin: auto;
     /*To set a gap between the cards it is used the column-gap and row-gap*/
     column-gap: 150px;
-    row-gap: 70px; 
+    row-gap: 85px; 
     font-family: "Playfair Display", serif;
 }
 
