@@ -39,6 +39,7 @@ header p {
     column-gap: 150px;
     row-gap: 85px; 
     font-family: "Playfair Display", serif;
+    margin-bottom: 5rem;
 }
 
 /* Container of each card */
