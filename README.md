@@ -1,4 +1,4 @@
-## **Interactive flip cards**
+## **Card flip animation**
 
 ### **Project description:**
 
